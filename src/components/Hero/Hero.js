@@ -17,7 +17,7 @@ const Hero = () => (
          Sanjay Ponraj
         </SectionTitle>
         <SectionText>
-        A Front-end Developer based in Chennai, India specializing in creating captivating user experiences. With expertise in latest front-end technoloies, I bring designs to life with seamless functionality.
+        A Front-end Developer based in Chennai, India specializing in creating captivating user experiences. With expertise in latest front-end technologies, I bring designs to life with seamless functionality.
         </SectionText>
 
         <SectionText>
